@@ -1,0 +1,1 @@
+cmd_/a/SVN/USB-4SERIAL/Software/trunk/Production_Test/Driver/ch9344ser_linux_V1.9/driver/ch9344.mod := { echo  /a/SVN/USB-4SERIAL/Software/trunk/Production_Test/Driver/ch9344ser_linux_V1.9/driver/ch9344.o;  echo; } > /a/SVN/USB-4SERIAL/Software/trunk/Production_Test/Driver/ch9344ser_linux_V1.9/driver/ch9344.mod
